@@ -4,7 +4,7 @@
 
 body {
   font-family: "Open Sans", sans-serif;
-  background: linear-gradient(120deg, #ffff00, #c0c0c0, #00ffff);
+background: linear-gradient(120deg, yellow, silver, cyan);
 }
 
 a {
@@ -161,4 +161,5 @@ ul {
   max-width: 120%;
   margin-top: 50px;
 }
+
 
