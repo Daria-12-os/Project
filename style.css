@@ -3,8 +3,8 @@
 }
 
 body {
-  font-family: "Open Sans", sans-serif;
-background: linear-gradient(120deg, yellow, silver, cyan);
+  font-family: "Open Sans", sans-serif !important;
+background: linear-gradient(120deg, yellow, silver, cyan) !important;
 }
 
 a {
@@ -161,5 +161,6 @@ ul {
   max-width: 120%;
   margin-top: 50px;
 }
+
 
 
