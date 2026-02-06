@@ -57,11 +57,11 @@ ul {
 .flat-page { 
   font-family: "Open Sans", sans-serif !important;
   background: linear-gradient(120deg, yellow, silver, cyan) !important; 
-}
 
-.flat-page header {
-  min-height: 80px;
-  display: flex;
+  header {
+    min-height: 80px;
+    display: flex;
+  }
 }
 
 @media (max-width: 767px) {
@@ -166,6 +166,7 @@ ul {
   max-width: 120%;
   margin-top: 50px;
 }
+
 
 
 
