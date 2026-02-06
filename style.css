@@ -54,7 +54,7 @@ ul {
   }
 }
 
-flat-page { 
+.flat-page { 
   font-family: "Open Sans", sans-serif !important;
   background: linear-gradient(120deg, yellow, silver, cyan) !important; 
 }
@@ -166,6 +166,7 @@ flat-page {
   max-width: 120%;
   margin-top: 50px;
 }
+
 
 
 
