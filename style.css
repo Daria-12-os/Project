@@ -93,7 +93,7 @@ ul {
 
 .flat-page header .links li {
   margin-left: 10px;
-  color: ваш цвет;
+  color: #ffff00;
   cursor: pointer;
   transition: 0.3s;
 }
@@ -161,3 +161,4 @@ ul {
   max-width: 120%;
   margin-top: 50px;
 }
+
